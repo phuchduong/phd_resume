@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Phuc H Duong</title>
+</head>
+<body>
+  <h1>Phuc H Duong</h1>
+  <p>Landing Page for Phuc H Duong.</p>
+</body>
+</html>
